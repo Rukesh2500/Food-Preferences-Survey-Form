@@ -10,9 +10,18 @@ The **Food Preferences Survey Form** is an online questionnaire designed to coll
 - [Survey Fields](#survey-fields)
 - [Features](#features)
 - [How to Use](#how-to-use)
-- [Contributing](#contributing)
+  
+|Sno| Topic | Link |
+|-|-|-|
+|01| Purpose | [Purpose](#purpose)
+|02| Survey Fields | [Survey Fields](#survey-fields)
+|03| Features | [Features](#features)
+|04| How to use | [How to Use](#how-to-use)
+|-|-|-|
+
 
 ## Purpose
+
 
 ### Understand Your Audience
 
@@ -66,15 +75,6 @@ Restaurants, food delivery services, and catering companies can use the survey t
 ### For Individuals
 
 Individuals are encouraged to participate in the survey to share their food preferences, contributing to the development of food-related services and products that align with their tastes.
-
-## Contributing
-
-If you'd like to contribute to this project, please follow these guidelines:
-- Fork the repository.
-- Create a new branch for your changes.
-- Make your changes and commit them with clear messages.
-- Push your changes to your fork.
-- Create a pull request to the main repository.
 
 ---
 
