@@ -2,15 +2,11 @@
 
 ## Project Overview
 <img src = "https://github.com/Rukesh2500/Food-Preferences-Survey-Form/blob/main/Food%20Preferences.jpg" alt = "Food Preferences Image">
+
 The **Food Preferences Survey Form** is an online questionnaire designed to collect data on individuals' culinary preferences, eating habits, and food origin choices. This project serves various purposes, including market research, menu planning for food service providers, and understanding the potential interest in veganism.
 
 ## Table of Contents
 
-- [Purpose](#purpose)
-- [Survey Fields](#survey-fields)
-- [Features](#features)
-- [How to Use](#how-to-use)
-  
 |Sno| Topic | Link |
 |-|-|-|
 |01| Purpose | [Purpose](#purpose)
